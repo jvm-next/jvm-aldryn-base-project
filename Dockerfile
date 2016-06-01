@@ -1,5 +1,5 @@
 # <DOCKER_FROM>  # Warning: text inside the DOCKER_FROM tags is auto-generated. Manual changes will be overwritten.
-FROM aldryn/base-project:3.1.0
+FROM aldryn/base-project:3.13.1
 # </DOCKER_FROM>
 ENV PYTHONPATH=/app/py_src:$PYTHONPATH
 # add gettext for manage.py makemessages
